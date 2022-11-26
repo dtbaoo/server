@@ -1,1 +1,4 @@
-200
+{
+  "version" : "2.0.2",
+  "noi dung" : "-sửa lỗi thái dương hạ san\n-thêm chức năng akok\n-sửa tốc độ thông báo\n-thêm chức năng ashnm\nChúc bạn chơi game vui vẻ\nTruy cập \"https://www.manhhdc.online/\" để tải nhé"
+}
